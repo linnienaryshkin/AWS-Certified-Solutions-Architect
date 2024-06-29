@@ -1,0 +1,13 @@
+node_modules
+package-lock.json
+
+.vscode
+.idea
+.husky
+.history
+
+coverage/
+dist/
+cdk.out/
+
+junit.xml

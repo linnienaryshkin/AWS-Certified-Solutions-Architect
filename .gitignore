@@ -1,0 +1,13 @@
+*.js
+!jest.config.ts
+*.d.ts
+node_modules
+
+# testing
+/coverage
+
+# CDK asset staging directory
+.cdk.staging
+.eslintcache
+cdk.out
+
