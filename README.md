@@ -27,3 +27,8 @@ Current CDK expose two lambdas.
 In the core of the project, you'll find `cdk.context.json` - highly recommended to fill it in case of production usage :)
 
 Read more here: https://docs.aws.amazon.com/cdk/v2/guide/context.html
+
+## Hygiene
+
+- `npm update --save`
+- `npm audit fix`
